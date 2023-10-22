@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.Header {
+    background-color: black;
+    height: 60px;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
